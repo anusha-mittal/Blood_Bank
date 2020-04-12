@@ -13,5 +13,7 @@ I created a simple PHP web server using a free hosting provider: http://000webho
 
 ## Libraries Used
 **Volley:** 
+
 **Glide(for loading images):** https://github.com/bumptech/glide
+
 **Fast Android Networking (For better Image Upload):** https://github.com/amitshekhariitbhu/Fast-Android-Networking
